@@ -1,9 +1,15 @@
 # Online Food Ordering System
 
-**Project:** PS No. 45 -- Online Food Ordering System\
-**Language:** Python 3\
-**Type:** Console-based application
+## Project Details
+- **Project Number:** 45
+- **Language:** Python 3
+- **Developer:** Harsh Kumar Sahu
+- **ERP:** RU-26-02383
 
+## Project Mentor
+- **Mentored by:** Mr. Satyaprakash Sethy
+- **Github:** @SATYAPRAKASHSETHY
+- **Role:** Python Mentor/ Technical Guide
 ## 1. Project Description
 
 The Online Food Ordering System is a simple Python console application
@@ -113,14 +119,5 @@ covering menu display, valid and invalid item inputs, quantity
 validation, cart removal, coupon handling, GST, delivery charges,
 checkout, and exit.
 
-## 10. Author
-
-**Student Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-**Roll Number:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-**Class / Section:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-**Institution:**
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-------------------------------------------------------------------------
-
+---------------------------------------------------------------------
 *End of README*
