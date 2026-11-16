@@ -7,8 +7,8 @@
 - **ERP:** RU-26-02383
 
 ## Project Mentor
-- **Mentored by:** Mr. Satyaprakash Sethy
-- **Github:** @SATYAPRAKASHSETHY
+- **Mentored by:** Mr. Satyaprakash Sethy(https://github.com/SATYAPRAKASHSETHY)
+- **Github:** @SATYAPRAKASHSETHY(https://github.com/SATYAPRAKASHSETHY)
 - **Role:** Python Mentor/ Technical Guide
 ## 1. Project Description
 
